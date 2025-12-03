@@ -1,0 +1,74 @@
+[
+  {
+    "month": "Jan",
+    "views": 727000000,
+    "uniqueViewers": 523440000,
+    "avgDuration": 99
+  },
+  {
+    "month": "Feb",
+    "views": 557000000,
+    "uniqueViewers": 401040000,
+    "avgDuration": 96
+  },
+  {
+    "month": "Mar",
+    "views": 734000000,
+    "uniqueViewers": 528480000,
+    "avgDuration": 99
+  },
+  {
+    "month": "Apr",
+    "views": 759000000,
+    "uniqueViewers": 546480000,
+    "avgDuration": 102
+  },
+  {
+    "month": "May",
+    "views": 626000000,
+    "uniqueViewers": 450720000,
+    "avgDuration": 98
+  },
+  {
+    "month": "Jun",
+    "views": 724000000,
+    "uniqueViewers": 521280000,
+    "avgDuration": 98
+  },
+  {
+    "month": "Jul",
+    "views": 819000000,
+    "uniqueViewers": 589680000,
+    "avgDuration": 98
+  },
+  {
+    "month": "Aug",
+    "views": 749000000,
+    "uniqueViewers": 539280000,
+    "avgDuration": 100
+  },
+  {
+    "month": "Sep",
+    "views": 765000000,
+    "uniqueViewers": 550800000,
+    "avgDuration": 100
+  },
+  {
+    "month": "Oct",
+    "views": 755000000,
+    "uniqueViewers": 543600000,
+    "avgDuration": 98
+  },
+  {
+    "month": "Nov",
+    "views": 697000000,
+    "uniqueViewers": 501840000,
+    "avgDuration": 100
+  },
+  {
+    "month": "Dec",
+    "views": 797000000,
+    "uniqueViewers": 573840000,
+    "avgDuration": 99
+  }
+]

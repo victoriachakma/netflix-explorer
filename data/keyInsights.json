@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Record-Breaking Month",
+    "description": "Total views hit 75,200,000 in December.",
+    "change": 15,
+    "metric": "vs. last month"
+  },
+  {
+    "title": "Engagement Up",
+    "description": "Average completion rate across titles reached 79%.",
+    "change": 7,
+    "metric": "vs. quarterly avg"
+  },
+  {
+    "title": "Drama Leads",
+    "description": "Drama remains the most consumed category across all regions.",
+    "change": 5,
+    "metric": "share growth"
+  }
+]
